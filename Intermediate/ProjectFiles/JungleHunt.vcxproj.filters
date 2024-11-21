@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\JungleHunt.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JungleHunt.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\JungleHuntEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\JungleHunt">
+      <UniqueIdentifier>{9EAA8507-95D1-3451-96D3-EA0067F4B99F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JungleHunt\JungleHunt.Build.cs">
+      <Filter>Source\JungleHunt</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\JungleHunt\JungleHunt.cpp">
+      <Filter>Source\JungleHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JungleHunt\JungleHunt.h">
+      <Filter>Source\JungleHunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JungleHunt\JungleHuntCharacter.cpp">
+      <Filter>Source\JungleHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JungleHunt\JungleHuntCharacter.h">
+      <Filter>Source\JungleHunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JungleHunt\JungleHuntGameMode.cpp">
+      <Filter>Source\JungleHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JungleHunt\JungleHuntGameMode.h">
+      <Filter>Source\JungleHunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JungleHunt\JungleHuntPlayerController.cpp">
+      <Filter>Source\JungleHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JungleHunt\JungleHuntPlayerController.h">
+      <Filter>Source\JungleHunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JungleHunt\JungleHuntProjectile.cpp">
+      <Filter>Source\JungleHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JungleHunt\JungleHuntProjectile.h">
+      <Filter>Source\JungleHunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JungleHunt\TP_PickUpComponent.cpp">
+      <Filter>Source\JungleHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JungleHunt\TP_PickUpComponent.h">
+      <Filter>Source\JungleHunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JungleHunt\TP_WeaponComponent.cpp">
+      <Filter>Source\JungleHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JungleHunt\TP_WeaponComponent.h">
+      <Filter>Source\JungleHunt</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
