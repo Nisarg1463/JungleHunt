@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nisar\\onedrive\\documents\\unreal projects\\junglehunt\\intermediate\\build\\win64\\unrealeditor\\inc\\junglehunt\\uht\\junglehunt.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nisar\\onedrive\\documents\\unreal projects\\junglehunt\\intermediate\\build\\win64\\x64\\junglehunteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\nisar\\onedrive\\documents\\unreal projects\\junglehunt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\junglehunt\\definitions.junglehunt.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

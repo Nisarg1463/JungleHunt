@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-JungleHunt.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\JungleHuntEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\JungleHunt.init.gen.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\JungleHuntCharacter.gen.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\JungleHuntGameMode.gen.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\JungleHuntPlayerController.gen.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\JungleHuntProjectile.gen.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\JungleHunt.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\JungleHuntCharacter.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\JungleHuntGameMode.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\JungleHuntPlayerController.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\JungleHuntProjectile.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\TP_PickUpComponent.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\TP_WeaponComponent.cpp.obj"
+"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\Default.rc2.res"
+/OUT:"C:\Users\nisar\OneDrive\Documents\Unreal Projects\JungleHunt\Intermediate\Build\Win64\x64\UnrealEditor\Development\JungleHunt\UnrealEditor-JungleHunt.lib"
